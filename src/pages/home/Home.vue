@@ -1,14 +1,15 @@
 <template>
-	<div>home</div>
+	<div>
+		Hello World.
+	</div>
 </template>
 
 <script>
 	export default {
-		name: "Home" //组件的名字
+		//组件的名字
+		name: 'Home'
 	}
 </script>
 
 <style>
-	
-	
 </style>
